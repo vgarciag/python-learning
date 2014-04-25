@@ -1,4 +1,4 @@
-python_learning
-===============
+Python lerning 
+==============
 
-This project is to try to learn python
+This project is to try to learn python by myself
