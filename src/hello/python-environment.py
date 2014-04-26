@@ -13,4 +13,4 @@ print "User site packages:   " + site.getusersitepackages()
 print "System site packages: " + str(site.getsitepackages())
 
 
-site.getsitepackages()
+site.getsitepackages() 
